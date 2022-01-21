@@ -1,4 +1,4 @@
-![Demo of the code](https://github.com/MaggieWoo2/traffic-image-recognition/test_10_480p.gif)
+![Demo of the code](https://github.com/MaggieWoo2/traffic-image-recognition/main/test_10_480p.gif)
 
 
 # traffic-image-recognition
